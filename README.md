@@ -31,3 +31,6 @@ This project helped me understand:
 
 ## 👤 Author
 Chinedu Okoli
+
+## 📌 Project Purpose
+This project was developed as part of the CodeAlpha Cyber Security Internship to demonstrate practical understanding of network packet analysis and protocol inspection.
